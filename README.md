@@ -1,3 +1,3 @@
 jplayer-youtube-skin
 ====================
-(https://raw.githubusercontent.com/ixiumu/jplayer-youtube-skin/master/screenshot.png)
+![image](https://raw.githubusercontent.com/ixiumu/jplayer-youtube-skin/master/screenshot.png)
